@@ -1,0 +1,7 @@
+Nombre:Jurassic World
+Sinopsis:Han pasado 22 años desde que el millonario John Hammond clonara el primer dinosaurio. Con tecnologías mejoradas y nuevas medidas de seguridad, el parque temático "Jurassic World" abre sus puertas.
+Calificacion:88
+Año de estreno:2015
+Duracion:2:04 hrs
+Categoria:Ciencia Ficción
+Clasificacion:PG-13

@@ -1,0 +1,9 @@
+Nombre:Stranger things
+Sinopsis:Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña.
+Calificacion:96
+Año de estreno:2019
+Duracion:50 min.
+Categoria:Drama/Misterio
+Clasificacion:TV-14
+Número de temporadas de la serie:3
+Número de episodios:24

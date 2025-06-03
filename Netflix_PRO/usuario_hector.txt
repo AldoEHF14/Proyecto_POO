@@ -1,0 +1,6 @@
+User=hector
+Email=hector@gmail.com
+Password=12345
+Plan=Basico
+Pago=139
+FormatoDePago=Tarjeta

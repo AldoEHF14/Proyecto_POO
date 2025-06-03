@@ -1,0 +1,9 @@
+Nombre:El último baile
+Sinopsis:En el otoño de 1997, Michael Jordan y los Chicago Bulls permitieron que un equipo de filmación los siguiera mientras buscaban su sexto título de la NBA en ocho temporadas. El retrato de uno de los más grandes atletas del deporte y un equipo célebre.
+Calificacion:95
+Año de estreno:2020
+Duracion:50 min.
+Categoria:Entretenimiento.
+Clasificacion:TV/NA
+Número de temporadas de la serie:1
+Número de episodios:10

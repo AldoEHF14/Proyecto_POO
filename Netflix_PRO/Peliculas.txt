@@ -1,0 +1,55 @@
+Nombre:Shrek
+Sinopsis:Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa.
+Calificacion:87
+Año de estreno:2001
+Duracion:1:30 hrs
+Categoria:Infatil
+Clasificacion:AA
+************************************************
+Nombre:Culpable
+Sinopsis:Un inspector de policía degradado a operador de emergencias intenta salvar a una mujer que llama aterrorizada en un desgarrador día de revelaciones y ajustes de cuentas.
+Calificacion:75
+Año de estreno:2021
+Duracion:1:31 hrs
+Categoria:Acción
+Clasificacion:R
+************************************************
+Nombre:Son como niños
+Sinopsis:La muerte de su entrenador de baloncesto durante su infancia provoca la reunión de algunos viejos amigos, quienes se ven en el lugar en el que celebraron un campeonato años atrás. Los compañeros hablan sobre sus esposas y sus hijos, y descubren que la edad no necesariamente va.
+Calificacion:75
+Año de estreno:2010
+Duracion:1:42 hrs
+Categoria:Comedia
+Clasificacion:PG-13
+************************************************
+Nombre:El precio del mañana
+Sinopsis:El hallazgo de una fórmula contra el envejecimiento trae consigo no sólo superpoblación, sino también la transformación del tiempo en moneda de cambio que permite sufragar tanto lujos como necesidades.
+Calificacion:78
+Año de estreno:2011
+Duracion:1:49 hrs
+Categoria:Acción y aventura
+Clasificacion:PG-13
+************************************************
+Nombre:Cuestión de tiempo
+Sinopsis:Cuando Tim Lake cumple 21 años, su padre le dice un secreto: los hombres de su familia pueden viajar por el tiempo. A pesar de que él no puede cambiar la historia, Tim decide mejorar su vida buscando una novia. Él conoce a Mary, se enamora y finalmente se gana su corazón con los viajes en el tiempo.
+Calificacion:87
+Año de estreno:2013
+Duracion:2:03 hrs
+Categoria:Romántica
+Clasificacion:R
+************************************************
+Nombre:Jurassic World
+Sinopsis:Han pasado 22 años desde que el millonario John Hammond clonara el primer dinosaurio. Con tecnologías mejoradas y nuevas medidas de seguridad, el parque temático "Jurassic World" abre sus puertas.
+Calificacion:88
+Año de estreno:2015
+Duracion:2:04 hrs
+Categoria:Ciencia Ficción
+Clasificacion:PG-13
+************************************************
+Nombre:Presagio
+Sinopsis:Después de leer unas predicciones terribles en una cápsula del tiempo, un profesor de astronomía cree que su familia jugará un papel importante en unos eventos que están por suceder.
+Calificacion:76
+Año de estreno:2009
+Duracion:2:00 hrs
+Categoria:Thrillers
+Clasificacion:PG-13
