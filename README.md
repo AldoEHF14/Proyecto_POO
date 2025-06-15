@@ -35,9 +35,11 @@ Recrear una experiencia simplificada de Netflix desde la terminal, permitiendo a
 
 ---
 
-## 📁 Estructura del proyecto.
+## ▶️ Cómo ejecutar
 
-![Logo del proyecto](img/estructura.png)
+1. Abre el proyecto en tu IDE favorito (NetBeans, IntelliJ, VS Code).
+2. Asegúrate de tener **Java 8 o superior** instalado.
+3. Compila los archivos `.java`:
 
-
+```bash
 
