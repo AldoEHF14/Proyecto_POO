@@ -37,5 +37,7 @@ Recrear una experiencia simplificada de Netflix desde la terminal, permitiendo a
 
 ## 📁 Estructura del proyecto.
 
+![Logo del proyecto](img/estructura.png)
+
 
 
