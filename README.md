@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como trabajo final académico, y consiste en una 
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo del proyecto
 
 Recrear una experiencia simplificada de Netflix desde la terminal, permitiendo a los usuarios:
 
