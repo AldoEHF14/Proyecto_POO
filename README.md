@@ -2,7 +2,7 @@
 
 ## 🎬 Simulación de Netflix en Consola (Java)
 
-Este proyecto fue desarrollado como trabajo final académico, y consiste en una **simulación básica de la plataforma de streaming Netflix**, implementada completamente en **Java por consola**.
+Este proyecto fue desarrollado como trabajo final académico, y consiste en una **simulación básica de la plataforma de streaming Netflix**.
 
 ---
 
