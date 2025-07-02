@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como trabajo final académico, y consiste en una 
 
 ---
 
-## 🎯 Objetivo del proyecto
+## 🎯 Objetivo
 
 Recrear una experiencia simplificada de Netflix desde la terminal, permitiendo a los usuarios:
 
@@ -17,21 +17,13 @@ Recrear una experiencia simplificada de Netflix desde la terminal, permitiendo a
 
 ---
 
-## 🧩 Características principales
+## 🧩 Características
 
 - 📂 Menú principal interactivo por consola
 - 🎞 Clasificación de contenido por categoría
 - 📝 Despliegue de información detallada por película o serie
 - ▶️ Simulación textual de reproducción
 - 🧠 Uso de estructuras básicas en Java: clases, listas, condicionales, ciclos, etc.
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Java** (Neatbeans)
-- Entrada y salida estándar (`Scanner`, `System.out`)
-- Estructuración modular con clases independientes
 
 ---
 
