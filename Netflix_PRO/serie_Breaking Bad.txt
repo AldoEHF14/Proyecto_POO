@@ -1,0 +1,9 @@
+Nombre:Breaking Bad
+Sinopsis:El profesor calmado de química de una secundaria, Walter White cree que su vida no puede ser peor
+Calificacion:96
+Año de estreno:2008
+Duracion:40 min.
+Categoria:Drama/Crimen
+Clasificacion:18+
+Número de temporadas de la serie:5
+Número de episodios:62

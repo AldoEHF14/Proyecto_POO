@@ -1,0 +1,59 @@
+Nombre:You
+Sinopsis:es una historia de amor ambientada en el siglo XXI sobre un veinteañero obsesivo pero brillante que usa la híper conectividad que ofrece la tecnología moderna para hacer que la mujer de sus sueños se enamore de él.
+Duracion:48.00 min
+Categoria:Thrillers TV
+Clasificacion:+18
+************************************************
+Nombre:Hay alguien en tu casa
+Sinopsis:Makani y sus amigos de la secundaria Osborne High intentan identificar y detener a un asesino enmascarado que ataca a alumnos y saca a la luz sus más íntimos secretos.
+Duracion:1:30 hrs
+Categoria:Terror
+Clasificacion:+18
+************************************************
+Nombre:Luis Miguel: Temporada 3
+Sinopsis:Un recorrido de lo personal y profesional en el que se profundiza en la vida del artista desde que nació hasta convertirse en un icono de la música latina.
+Duracion:50.00 min
+Categoria:Dramas de TV
+Clasificacion:+18
+************************************************
+Nombre:Venom
+Sinopsis:El periodista Eddie Brock intenta desenmascarar al genio científico Carlton Drake, el célebre fundador de la Fundación Vida. Mientras investiga uno de los experimentos de Drake, Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.
+Duracion:2.20 hrs
+Categoria:Ciencia ficcion/ Accion
+Clasificacion:B-13
+************************************************
+Nombre:Mi Nombre
+Sinopsis:Tras el asesinato de su padre, una mujer con sed de venganza decide confiar en el poderoso jefe de una red criminal... y se infiltra en la policía bajo sus órdenes.
+Duracion:55 min
+Categoria:Accion
+Clasificacion:B-13
+************************************************
+Nombre:Ma
+Sinopsis:Maggie (Diana Silvers) acaba de mudarse junto a su madre al pueblo natal de esta última. En seguida hace amistad con un grupo de chicos que van a su nuevo instituto. Pero en el pueblo también conocerá a alguien que se pegará al grupo como una sanguijuela, Anna Sue, a la que acabarán llamado Ma.
+Duracion:1.40 hrs
+Categoria:Terror
+Clasificacion:+18
+************************************************
+Nombre:La Batalla olvidada
+Sinopsis:Las vidas de un piloto de planeador, un soldado nazi y una recluta de la resistencia se cruzan en la batalla del estuario del Escalda durante la Segunda Guerra Mundial.
+Duracion:2.04 hrs
+Categoria:Accion y Aveturas
+Clasificacion:R
+************************************************
+Nombre:locke and key
+Sinopsis:La ficción se centra en los Locke una familia que regresa a su gigantesca mansión natal en Lovecraft, Massachussetts. Los Locke deciden volver tras el asesinato de su padre, del cual todavía su madre trata de reponerse.
+Duracion:1 hr
+Categoria:Fantasia
+Clasificacion:TV-14
+************************************************
+Nombre:Searching
+Sinopsis:David Kim denuncia la desaparición de su hija de 16 años y la policía inicia una investigación. Sin embargo, 37 horas más tarde y sin una sola pista, David decide buscar en el único lugar donde nadie ha buscado todavía y donde se guardan todos los secretos hoy en día: el ordenador portátil de su hija.
+Duracion:1.40 hrs
+Categoria:Drama
+Clasificacion:R
+************************************************
+Nombre:Maya y los tres
+Sinopsis:Una princesa vivaz con corazón de guerrera se embarca en una misión para cumplir una antigua profecía y salvar a la humanidad de la ira de dioses vengativos
+Duracion:30 min
+Categoria:Dibujos animados
+Clasificacion:TV-G

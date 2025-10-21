@@ -1,0 +1,9 @@
+Nombre:Cosmos
+Sinopsis:Un viaje personal, que fuera presentada por Carl Sagan? y cuya emisión a través de la PBS se considera un hito en la historia de los documentales científicos.
+Calificacion:97
+Año de estreno:2014
+Duracion:40 min.
+Categoria:Ciencia y Divulgación.
+Clasificacion:AA
+Número de temporadas de la serie:3
+Número de episodios:13

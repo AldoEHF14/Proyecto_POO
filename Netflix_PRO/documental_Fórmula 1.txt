@@ -1,0 +1,9 @@
+Nombre:Fórmula 1
+Sinopsis:Los pilotos, representantes y dueños de equipos viven a máxima velocidad, tanto dentro como fuera de la pista, durante una temporada despiadada en la Fórmula 1.
+Calificacion:95
+Año de estreno:2021
+Duracion:50 min.
+Categoria:Entretenimiento.
+Clasificacion:TV-MA
+Número de temporadas de la serie:3
+Número de episodios:30

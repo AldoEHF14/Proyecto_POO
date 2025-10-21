@@ -1,0 +1,9 @@
+Nombre:Cuerpo humano
+Sinopsis:Una boxeadora, una socorrista y un hombre con una mano biónica demuestran cómo el cerebro y su extenso sistema nervioso transforman la información en acción.
+Calificacion:75
+Año de estreno:2021
+Duracion:50 min.
+Categoria:Ciencia y Divulgación.
+Clasificacion:TV-PG
+Número de temporadas de la serie:1
+Número de episodios:6

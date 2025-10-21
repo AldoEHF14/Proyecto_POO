@@ -1,0 +1,7 @@
+Nombre:Shrek
+Sinopsis:Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa.
+Calificacion:87
+Año de estreno:2001
+Duracion:1:30 min.
+Categoria:Infatil
+Clasificacion:AA

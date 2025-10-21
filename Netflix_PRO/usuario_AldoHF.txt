@@ -1,0 +1,6 @@
+User=AldoHF
+Email=aldo@gmail.com
+Password=123456
+Plan=Estandar
+Pago=196
+FormatoDePago=Tarjeta

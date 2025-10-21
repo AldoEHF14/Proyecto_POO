@@ -1,0 +1,39 @@
+Nombre:Cuerpo humano
+Sinopsis:Una boxeadora, una socorrista y un hombre con una mano biónica demuestran cómo el cerebro y su extenso sistema nervioso transforman la información en acción.
+Calificacion:75
+Año de estreno:2021
+Duracion:50 min.
+Categoria:Ciencia y Divulgación.
+Clasificacion:TV-PG
+Número de temporadas de la serie:1
+Número de episodios:6
+************************************************
+Nombre:Fórmula 1
+Sinopsis:Los pilotos, representantes y dueños de equipos viven a máxima velocidad, tanto dentro como fuera de la pista, durante una temporada despiadada en la Fórmula 1.
+Calificacion:95
+Año de estreno:2021
+Duracion:50 min.
+Categoria:Entretenimiento.
+Clasificacion:TV-MA
+Número de temporadas de la serie:3
+Número de episodios:30
+************************************************
+Nombre:El último baile
+Sinopsis:En el otoño de 1997, Michael Jordan y los Chicago Bulls permitieron que un equipo de filmación los siguiera mientras buscaban su sexto título de la NBA en ocho temporadas. El retrato de uno de los más grandes atletas del deporte y un equipo célebre.
+Calificacion:95
+Año de estreno:2020
+Duracion:50 min.
+Categoria:Entretenimiento.
+Clasificacion:TV/NA
+Número de temporadas de la serie:1
+Número de episodios:10
+************************************************
+Nombre:Los 100 humanos
+Sinopsis:Cien personas de diversos orígenes participan en experimentos que exploran la edad, el sexo, la felicidad y otros aspectos del ser humano.
+Calificacion:82
+Año de estreno:2020
+Duracion:35 min.
+Categoria:Reality.
+Clasificacion:TV/NA
+Número de temporadas de la serie:1
+Número de episodios:8

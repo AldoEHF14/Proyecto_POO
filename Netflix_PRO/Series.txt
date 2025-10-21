@@ -1,0 +1,49 @@
+Nombre:El juego del calamar
+Sinopsis:Cientos de personas con dificultades económicas aceptan una extraña invitación a un juego de supervivencia. Les espera un premio millonario, pero hay mucho en juego.
+Calificacion:96
+Año de estreno:2021
+Duracion:50 min.
+Categoria:Drama/Crimen
+Clasificacion:TV-MA
+Número de temporadas de la serie:1
+Número de episodios:8
+************************************************
+Nombre:El señor de los cielos
+Sinopsis:Al final de la década de los ochentas, en el negocio ilícito más lucrativo de la época, "el oro blanco", las rutas de las Bahamas y Florida, ya no son tan viables para el transporte de la cocaína; la persecución de los miembros de los carteles colombianos y su guerra entre ellos mismos.
+Calificacion:86
+Año de estreno:2019
+Duracion:56 min.
+Categoria:Crimen
+Clasificacion:TV-MA
+Número de temporadas de la serie:7
+Número de episodios:280
+************************************************
+Nombre:Arrow
+Sinopsis:Cuando Oliver Queen, un billonario mujeriego, que se presumía había fallecido, regresa a casa a la ciudad Starling, luego de cinco años de quedar atrapado en una isla remota en el Pacífico, él esconde los cambios creados por la experiencia en sí mismo, mientras busca la reconciliación con su ex.
+Calificacion:82
+Año de estreno:2019
+Duracion:40 min.
+Categoria:Drama
+Clasificacion:TV-14
+Número de temporadas de la serie:8
+Número de episodios:184
+************************************************
+Nombre:Rick & Morty
+Sinopsis:Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.
+Calificacion:96
+Año de estreno:2013
+Duracion:30 min.
+Categoria:Aventura
+Clasificacion:TV-14
+Número de temporadas de la serie:5
+Número de episodios:51
+************************************************
+Nombre:Stranger things
+Sinopsis:Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña.
+Calificacion:96
+Año de estreno:2019
+Duracion:50 min.
+Categoria:Drama/Misterio
+Clasificacion:TV-14
+Número de temporadas de la serie:3
+Número de episodios:24

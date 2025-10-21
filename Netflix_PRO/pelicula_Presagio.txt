@@ -1,0 +1,7 @@
+Nombre:Presagio
+Sinopsis:Después de leer unas predicciones terribles en una cápsula del tiempo, un profesor de astronomía cree que su familia jugará un papel importante en unos eventos que están por suceder.
+Calificacion:76
+Año de estreno:2009
+Duracion:2:00 hrs
+Categoria:Thrillers
+Clasificacion:PG-13

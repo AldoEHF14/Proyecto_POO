@@ -1,0 +1,66 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'14'
+-sourcepath
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hector/Desktop/Netflix_PRO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Netflix 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/14/docs/api' 'C:/Users/Hector/Desktop/Netflix_PRO/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Netflix 1.0-SNAPSHOT API'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Buscador.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Catalogo.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/CatalogoDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Cuenta.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Documental.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/DocumentalDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Metraje.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/MiListaDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Mi_lista.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Pantalla.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Pelicula.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/PeliculaDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Plan.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/PlanBasico.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/PlanEstandar.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/PlanOptima.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Principal.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Proximamente.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/ProximamenteDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Serie.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/SerieDB.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/Usuario.java'
+'C:/Users/Hector/Desktop/Netflix_PRO/src/main/java/com/mycompany/netflix/UsuarioDB.java'
+C:\Users\Hector\Desktop\Netflix_PRO\src\main\java = 1634158811625
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\allclasses-index.html = 1634170883702
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\allpackages-index.html = 1634170883712
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\element-list = 1634170882799
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\help-doc.html = 1634170883945
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\index-all.html = 1634170883915
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\index.html = 1634170883922
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\jquery-ui.overrides.css = 1634170884216
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\member-search-index.js = 1634170883756
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\module-search-index.js = 1634170883722
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\overview-tree.html = 1634170883538
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\package-search-index.js = 1634170883733
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\script.js = 1634170883969
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\search.js = 1634170883991
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\stylesheet.css = 1634170883962
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\tag-search-index.js = 1634170883760
+C:\Users\Hector\Desktop\Netflix_PRO\target\site\apidocs\type-search-index.js = 1634170883742

@@ -1,0 +1,7 @@
+Nombre:Culpable
+Sinopsis:Un inspector de policía degradado a operador de emergencias intenta salvar a una mujer que llama aterrorizada en un desgarrador día de revelaciones y ajustes de cuentas.
+Calificacion:75
+Año de estreno:2021
+Duracion:1:31 hrs
+Categoria:Acción
+Clasificacion:R

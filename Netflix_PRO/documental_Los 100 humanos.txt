@@ -1,0 +1,9 @@
+Nombre:Los 100 humanos
+Sinopsis:Cien personas de diversos orígenes participan en experimentos que exploran la edad, el sexo, la felicidad y otros aspectos del ser humano.
+Calificacion:82
+Año de estreno:2020
+Duracion:35 min.
+Categoria:Reality.
+Clasificacion:TV/NA
+Número de temporadas de la serie:1
+Número de episodios:8
